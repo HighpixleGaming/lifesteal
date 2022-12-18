@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "unlockHeart": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ls:heart"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ls:recipes/crafted_heart"
+    }
+}

@@ -1,3 +1,0 @@
-kill @e[type=item,sort=nearest,nbt={Item:{id:"minecraft:beacon",Count:1b}},limit=1]
-summon minecraft:item ~ ~1 ~ {Motion:[0.0,0.27,0.0],Item:{id:"minecraft:allay_spawn_egg",Count:1b,tag:{display:{Name:'{"text":"Respawn Beacon","color":"aqua","bold":true,"italic":false}'},Enchantments:[{}],EntityTag:{id:"minecraft:area_effect_cloud",Radius:0f,Duration:5,WaitTime:0,Tags:["lsRespawnBeaconCloud"]}}}}
-kill @s

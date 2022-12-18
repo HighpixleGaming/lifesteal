@@ -1,0 +1,2 @@
+give @s warped_fungus_on_a_stick{display:{Name:'{"text":"Heart","color":"red","bold":true,"italic":false}'},Unbreakable:1b,lsHeart:1b,Enchantments:[{}]} 1
+scoreboard players remove @s ls_maxHealthModifier 1
